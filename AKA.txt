@@ -1,0 +1,64 @@
+SCM-Credentils:
+
+=====================================
+Gmail ID:
+
+Username:
+azsample2023@gmail.com
+
+Password: Verizon-12345
+
+=========================
+
+GitHub Account:
+
+Username:
+azsample2023@gmail.com
+
+Password: Verizon-12345
+
+=======================
+
+Gitlab Account;
+Username:
+azsample2023@gmail.com
+
+Password: Verizon-12345
+
+===========================
+Bitbucket Account:
+
+Username:
+azsample2023@gmail.com
+
+Password: Verizon-12345
+
+
+============================
+
+Docker Hub:
+
+Username:
+azsample2023@gmail.com
+
+Password: Verizon-12345
+
+
+============================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
